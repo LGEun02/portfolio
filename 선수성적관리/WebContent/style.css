@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	height: 80px;
+	line-height: 80px;
+	background-color: #808000;
+	color: #fff;
+	text-align: center;
+}
+
+nav{
+	height: 30px;
+	line-height: 30px;
+	background-color: #804000;
+}
+
+nav a{
+	color: #fff;
+	text-decoration: none;
+	margin-left: 30px;
+}
+
+section{
+	height: 600px;
+	background-color: #c0c0c0;
+	padding: 20px;
+}
+
+section div{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+section ol{
+	margin-left: 40px;
+}
+
+section ol li{
+	height: 30px;
+}
+
+footer{
+	height: 40px;
+	line-height: 40px;
+	background-color: #808000;
+	color: #fff;
+	text-align: center;
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="영화관 회원과 예매관리_multiple_정규식">
+                
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+                
+        <property name="context-root" value="HRD_2_영화관_회원과_예매관리_multiple_정규식"/>
+                
+        <property name="java-output-path" value="/영화관 회원과 예매관리_multiple_정규식/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
